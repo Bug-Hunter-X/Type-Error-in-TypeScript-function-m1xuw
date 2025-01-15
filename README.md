@@ -1,0 +1,1 @@
+This repository contains a simple TypeScript program with a type error. The `printNumber` function is defined to accept a number as input, but it is called with a string, resulting in a type error. The solution demonstrates how to fix the error by ensuring that the input to the function is always a number.
